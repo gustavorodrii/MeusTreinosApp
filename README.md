@@ -9,5 +9,5 @@
 
 
 
-<img src="https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/0781a009-8868-4cca-9e73-dfe52f115d24" width="460" height="300">
+<img src="https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/0781a009-8868-4cca-9e73-dfe52f115d24" width="640" height="320">
 
