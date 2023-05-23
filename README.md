@@ -6,3 +6,8 @@
 ![Screenshot_1683916582](https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/03700f1a-38d8-4f69-a082-774971802064)
 ![Screenshot_1683916584](https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/deb2a0d1-7d9f-4a46-95cf-3a9fac771c14)
 ![Screenshot_1683916586](https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/f866547a-18c2-4a5e-9668-b606744a36f4)
+
+
+
+<img src="https://github.com/gustavorodrii/MeusTreinosApp/assets/95060202/0781a009-8868-4cca-9e73-dfe52f115d24" width="300" height="200">
+
